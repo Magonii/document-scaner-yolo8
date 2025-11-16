@@ -1,0 +1,4890 @@
+{
+  "АПЗ-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1088.13,
+              "y": 1571.22,
+              "width": 61.16,
+              "height": 62.64
+            },
+            "area": 3831.06
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1096.38,
+              "y": 1581.68,
+              "width": 49.62,
+              "height": 49.39
+            },
+            "area": 2450.73
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1096.79,
+              "y": 1581.49,
+              "width": 51.84,
+              "height": 54.08
+            },
+            "area": 2803.51
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_4": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1089.47,
+              "y": 1574.17,
+              "width": 60.41,
+              "height": 61.8
+            },
+            "area": 3733.34
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_5": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1101.91,
+              "y": 1580.5,
+              "width": 57.7,
+              "height": 58.71
+            },
+            "area": 3387.57
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_6": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1097.59,
+              "y": 1582.51,
+              "width": 54.79,
+              "height": 56.39
+            },
+            "area": 3089.61
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_7": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1091.17,
+              "y": 1575.03,
+              "width": 55.35,
+              "height": 57.01
+            },
+            "area": 3155.5
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_8": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 426.68,
+              "y": 1519.43,
+              "width": 248.1,
+              "height": 104.57
+            },
+            "area": 25943.82
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 1093.68,
+              "y": 1581.81,
+              "width": 58.55,
+              "height": 59.78
+            },
+            "area": 3500.12
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_9": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 944.43,
+              "y": 587.22,
+              "width": 164.82,
+              "height": 165.49
+            },
+            "area": 27276.06
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 290.65,
+              "y": 584.46,
+              "width": 163.31,
+              "height": 167.02
+            },
+            "area": 27276.04
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "qr",
+            "bbox": {
+              "x": 74.8,
+              "y": 584.31,
+              "width": 165.44,
+              "height": 166.7
+            },
+            "area": 27578.85
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "qr",
+            "bbox": {
+              "x": 948.55,
+              "y": 151.65,
+              "width": 164.28,
+              "height": 167.01
+            },
+            "area": 27436.4
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "qr",
+            "bbox": {
+              "x": 294.32,
+              "y": 148.76,
+              "width": 164.81,
+              "height": 168.3
+            },
+            "area": 27737.52
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "qr",
+            "bbox": {
+              "x": 507.1,
+              "y": 585.41,
+              "width": 166.79,
+              "height": 165.88
+            },
+            "area": 27667.13
+          }
+        },
+        {
+          "annotation_7": {
+            "category": "qr",
+            "bbox": {
+              "x": 78.22,
+              "y": 148.52,
+              "width": 166.44,
+              "height": 168.68
+            },
+            "area": 28075.1
+          }
+        },
+        {
+          "annotation_8": {
+            "category": "qr",
+            "bbox": {
+              "x": 947.1,
+              "y": 369.0,
+              "width": 164.16,
+              "height": 167.0
+            },
+            "area": 27414.72
+          }
+        },
+        {
+          "annotation_9": {
+            "category": "qr",
+            "bbox": {
+              "x": 733.44,
+              "y": 150.91,
+              "width": 163.48,
+              "height": 166.52
+            },
+            "area": 27222.69
+          }
+        },
+        {
+          "annotation_10": {
+            "category": "qr",
+            "bbox": {
+              "x": 77.69,
+              "y": 368.31,
+              "width": 165.48,
+              "height": 165.51
+            },
+            "area": 27388.59
+          }
+        },
+        {
+          "annotation_11": {
+            "category": "qr",
+            "bbox": {
+              "x": 293.41,
+              "y": 368.06,
+              "width": 163.07,
+              "height": 167.35
+            },
+            "area": 27289.76
+          }
+        },
+        {
+          "annotation_12": {
+            "category": "qr",
+            "bbox": {
+              "x": 510.49,
+              "y": 149.92,
+              "width": 166.43,
+              "height": 167.36
+            },
+            "area": 27853.72
+          }
+        },
+        {
+          "annotation_13": {
+            "category": "qr",
+            "bbox": {
+              "x": 730.65,
+              "y": 369.17,
+              "width": 164.5,
+              "height": 166.55
+            },
+            "area": 27397.48
+          }
+        },
+        {
+          "annotation_14": {
+            "category": "qr",
+            "bbox": {
+              "x": 726.97,
+              "y": 586.94,
+              "width": 166.91,
+              "height": 165.45
+            },
+            "area": 27615.26
+          }
+        },
+        {
+          "annotation_15": {
+            "category": "qr",
+            "bbox": {
+              "x": 509.88,
+              "y": 368.02,
+              "width": 165.72,
+              "height": 166.64
+            },
+            "area": 27615.58
+          }
+        },
+        {
+          "annotation_16": {
+            "category": "qr",
+            "bbox": {
+              "x": 1090.06,
+              "y": 1571.8,
+              "width": 58.48,
+              "height": 60.02
+            },
+            "area": 3509.97
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "АПЗ-2.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1086.97,
+              "y": 1570.87,
+              "width": 61.35,
+              "height": 61.86
+            },
+            "area": 3795.11
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1095.64,
+              "y": 1585.33,
+              "width": 49.04,
+              "height": 50.99
+            },
+            "area": 2500.55
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1098.94,
+              "y": 1591.42,
+              "width": 51.75,
+              "height": 52.28
+            },
+            "area": 2705.49
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_4": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1087.92,
+              "y": 1584.6,
+              "width": 59.85,
+              "height": 60.79
+            },
+            "area": 3638.28
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_5": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1083.31,
+              "y": 1585.05,
+              "width": 56.02,
+              "height": 59.49
+            },
+            "area": 3332.63
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_6": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1090.94,
+              "y": 1581.57,
+              "width": 55.75,
+              "height": 55.85
+            },
+            "area": 3113.64
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_7": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1084.5,
+              "y": 1578.79,
+              "width": 55.99,
+              "height": 56.75
+            },
+            "area": 3177.43
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_8": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 472.8,
+              "y": 1496.61,
+              "width": 101.68,
+              "height": 53.34
+            },
+            "area": 5423.61
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 1093.49,
+              "y": 1582.29,
+              "width": 57.88,
+              "height": 60.32
+            },
+            "area": 3491.32
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_9": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 944.59,
+              "y": 590.4,
+              "width": 165.09,
+              "height": 167.61
+            },
+            "area": 27670.73
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 945.93,
+              "y": 371.6,
+              "width": 164.64,
+              "height": 168.28
+            },
+            "area": 27705.62
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "qr",
+            "bbox": {
+              "x": 76.42,
+              "y": 371.82,
+              "width": 164.51,
+              "height": 168.38
+            },
+            "area": 27700.19
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "qr",
+            "bbox": {
+              "x": 290.37,
+              "y": 590.48,
+              "width": 164.29,
+              "height": 168.03
+            },
+            "area": 27605.65
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "qr",
+            "bbox": {
+              "x": 291.37,
+              "y": 371.82,
+              "width": 164.18,
+              "height": 168.42
+            },
+            "area": 27651.2
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "qr",
+            "bbox": {
+              "x": 74.24,
+              "y": 590.8,
+              "width": 165.79,
+              "height": 167.43
+            },
+            "area": 27758.22
+          }
+        },
+        {
+          "annotation_7": {
+            "category": "qr",
+            "bbox": {
+              "x": 293.83,
+              "y": 156.73,
+              "width": 164.38,
+              "height": 166.12
+            },
+            "area": 27306.81
+          }
+        },
+        {
+          "annotation_8": {
+            "category": "qr",
+            "bbox": {
+              "x": 947.44,
+              "y": 157.27,
+              "width": 164.63,
+              "height": 165.65
+            },
+            "area": 27270.96
+          }
+        },
+        {
+          "annotation_9": {
+            "category": "qr",
+            "bbox": {
+              "x": 77.81,
+              "y": 157.23,
+              "width": 165.79,
+              "height": 165.7
+            },
+            "area": 27471.4
+          }
+        },
+        {
+          "annotation_10": {
+            "category": "qr",
+            "bbox": {
+              "x": 507.3,
+              "y": 591.0,
+              "width": 165.46,
+              "height": 166.46
+            },
+            "area": 27542.47
+          }
+        },
+        {
+          "annotation_11": {
+            "category": "qr",
+            "bbox": {
+              "x": 508.8,
+              "y": 371.55,
+              "width": 166.73,
+              "height": 168.39
+            },
+            "area": 28075.66
+          }
+        },
+        {
+          "annotation_12": {
+            "category": "qr",
+            "bbox": {
+              "x": 729.1,
+              "y": 371.71,
+              "width": 165.76,
+              "height": 168.27
+            },
+            "area": 27892.44
+          }
+        },
+        {
+          "annotation_13": {
+            "category": "qr",
+            "bbox": {
+              "x": 730.79,
+              "y": 156.95,
+              "width": 164.5,
+              "height": 165.69
+            },
+            "area": 27256.01
+          }
+        },
+        {
+          "annotation_14": {
+            "category": "qr",
+            "bbox": {
+              "x": 726.76,
+              "y": 590.2,
+              "width": 166.53,
+              "height": 167.11
+            },
+            "area": 27828.83
+          }
+        },
+        {
+          "annotation_15": {
+            "category": "qr",
+            "bbox": {
+              "x": 509.72,
+              "y": 156.05,
+              "width": 166.04,
+              "height": 166.2
+            },
+            "area": 27595.85
+          }
+        },
+        {
+          "annotation_16": {
+            "category": "qr",
+            "bbox": {
+              "x": 1092.9,
+              "y": 1577.7,
+              "width": 57.95,
+              "height": 58.87
+            },
+            "area": 3411.52
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "АПЗ-31-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1088.31,
+              "y": 1571.36,
+              "width": 60.9,
+              "height": 62.47
+            },
+            "area": 3804.42
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1096.35,
+              "y": 1581.7,
+              "width": 49.44,
+              "height": 49.38
+            },
+            "area": 2441.35
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1096.77,
+              "y": 1581.37,
+              "width": 51.79,
+              "height": 54.36
+            },
+            "area": 2815.3
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_4": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1089.66,
+              "y": 1574.35,
+              "width": 60.2,
+              "height": 61.81
+            },
+            "area": 3720.96
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_5": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1101.87,
+              "y": 1580.68,
+              "width": 57.72,
+              "height": 58.37
+            },
+            "area": 3369.12
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_6": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1097.24,
+              "y": 1582.71,
+              "width": 55.1,
+              "height": 55.97
+            },
+            "area": 3083.95
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_7": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1091.1,
+              "y": 1575.17,
+              "width": 55.4,
+              "height": 56.85
+            },
+            "area": 3149.49
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_8": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 428.78,
+              "y": 1523.97,
+              "width": 245.71,
+              "height": 100.12
+            },
+            "area": 24600.49
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 1093.51,
+              "y": 1581.79,
+              "width": 58.49,
+              "height": 60.52
+            },
+            "area": 3539.81
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_9": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 944.51,
+              "y": 587.4,
+              "width": 164.73,
+              "height": 165.45
+            },
+            "area": 27254.58
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 948.59,
+              "y": 151.78,
+              "width": 164.2,
+              "height": 166.93
+            },
+            "area": 27409.91
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "qr",
+            "bbox": {
+              "x": 290.82,
+              "y": 584.57,
+              "width": 163.16,
+              "height": 166.9
+            },
+            "area": 27231.4
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "qr",
+            "bbox": {
+              "x": 75.0,
+              "y": 584.56,
+              "width": 165.15,
+              "height": 166.41
+            },
+            "area": 27482.61
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "qr",
+            "bbox": {
+              "x": 294.28,
+              "y": 148.82,
+              "width": 164.48,
+              "height": 168.39
+            },
+            "area": 27696.79
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "qr",
+            "bbox": {
+              "x": 78.2,
+              "y": 148.65,
+              "width": 166.48,
+              "height": 168.58
+            },
+            "area": 28065.2
+          }
+        },
+        {
+          "annotation_7": {
+            "category": "qr",
+            "bbox": {
+              "x": 507.28,
+              "y": 585.52,
+              "width": 166.54,
+              "height": 165.69
+            },
+            "area": 27594.01
+          }
+        },
+        {
+          "annotation_8": {
+            "category": "qr",
+            "bbox": {
+              "x": 946.97,
+              "y": 369.01,
+              "width": 164.2,
+              "height": 166.95
+            },
+            "area": 27413.19
+          }
+        },
+        {
+          "annotation_9": {
+            "category": "qr",
+            "bbox": {
+              "x": 733.58,
+              "y": 150.74,
+              "width": 163.2,
+              "height": 166.57
+            },
+            "area": 27184.22
+          }
+        },
+        {
+          "annotation_10": {
+            "category": "qr",
+            "bbox": {
+              "x": 77.69,
+              "y": 368.33,
+              "width": 165.31,
+              "height": 165.36
+            },
+            "area": 27335.66
+          }
+        },
+        {
+          "annotation_11": {
+            "category": "qr",
+            "bbox": {
+              "x": 293.33,
+              "y": 368.24,
+              "width": 162.93,
+              "height": 167.11
+            },
+            "area": 27227.23
+          }
+        },
+        {
+          "annotation_12": {
+            "category": "qr",
+            "bbox": {
+              "x": 510.46,
+              "y": 150.17,
+              "width": 166.35,
+              "height": 167.15
+            },
+            "area": 27805.4
+          }
+        },
+        {
+          "annotation_13": {
+            "category": "qr",
+            "bbox": {
+              "x": 730.71,
+              "y": 369.24,
+              "width": 164.35,
+              "height": 166.55
+            },
+            "area": 27372.49
+          }
+        },
+        {
+          "annotation_14": {
+            "category": "qr",
+            "bbox": {
+              "x": 727.08,
+              "y": 587.14,
+              "width": 166.69,
+              "height": 165.01
+            },
+            "area": 27505.52
+          }
+        },
+        {
+          "annotation_15": {
+            "category": "qr",
+            "bbox": {
+              "x": 509.81,
+              "y": 368.14,
+              "width": 165.77,
+              "height": 166.55
+            },
+            "area": 27608.99
+          }
+        },
+        {
+          "annotation_16": {
+            "category": "qr",
+            "bbox": {
+              "x": 1090.62,
+              "y": 1572.32,
+              "width": 58.22,
+              "height": 59.24
+            },
+            "area": 3448.95
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "АПЗ-41-чб.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 470.98,
+              "y": 1497.86,
+              "width": 103.77,
+              "height": 53.02
+            },
+            "area": 5501.89
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 1093.33,
+              "y": 1582.42,
+              "width": 58.06,
+              "height": 60.35
+            },
+            "area": 3503.92
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 944.7,
+              "y": 590.51,
+              "width": 164.87,
+              "height": 167.43
+            },
+            "area": 27604.18
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 290.66,
+              "y": 590.64,
+              "width": 163.87,
+              "height": 167.86
+            },
+            "area": 27507.22
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "qr",
+            "bbox": {
+              "x": 946.04,
+              "y": 371.64,
+              "width": 164.37,
+              "height": 168.26
+            },
+            "area": 27656.9
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "qr",
+            "bbox": {
+              "x": 76.51,
+              "y": 372.06,
+              "width": 164.48,
+              "height": 168.21
+            },
+            "area": 27667.18
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "qr",
+            "bbox": {
+              "x": 291.88,
+              "y": 371.91,
+              "width": 163.6,
+              "height": 168.36
+            },
+            "area": 27543.7
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "qr",
+            "bbox": {
+              "x": 74.54,
+              "y": 590.84,
+              "width": 165.43,
+              "height": 167.47
+            },
+            "area": 27704.56
+          }
+        },
+        {
+          "annotation_7": {
+            "category": "qr",
+            "bbox": {
+              "x": 293.9,
+              "y": 156.79,
+              "width": 164.09,
+              "height": 166.24
+            },
+            "area": 27278.32
+          }
+        },
+        {
+          "annotation_8": {
+            "category": "qr",
+            "bbox": {
+              "x": 947.4,
+              "y": 157.25,
+              "width": 164.57,
+              "height": 165.81
+            },
+            "area": 27287.35
+          }
+        },
+        {
+          "annotation_9": {
+            "category": "qr",
+            "bbox": {
+              "x": 77.72,
+              "y": 157.22,
+              "width": 165.76,
+              "height": 165.74
+            },
+            "area": 27473.06
+          }
+        },
+        {
+          "annotation_10": {
+            "category": "qr",
+            "bbox": {
+              "x": 507.3,
+              "y": 591.25,
+              "width": 165.54,
+              "height": 165.98
+            },
+            "area": 27476.33
+          }
+        },
+        {
+          "annotation_11": {
+            "category": "qr",
+            "bbox": {
+              "x": 731.03,
+              "y": 156.92,
+              "width": 164.12,
+              "height": 165.68
+            },
+            "area": 27191.4
+          }
+        },
+        {
+          "annotation_12": {
+            "category": "qr",
+            "bbox": {
+              "x": 508.75,
+              "y": 371.85,
+              "width": 166.69,
+              "height": 167.62
+            },
+            "area": 27940.58
+          }
+        },
+        {
+          "annotation_13": {
+            "category": "qr",
+            "bbox": {
+              "x": 726.99,
+              "y": 590.53,
+              "width": 166.1,
+              "height": 166.94
+            },
+            "area": 27728.73
+          }
+        },
+        {
+          "annotation_14": {
+            "category": "qr",
+            "bbox": {
+              "x": 729.22,
+              "y": 371.83,
+              "width": 165.6,
+              "height": 167.95
+            },
+            "area": 27812.52
+          }
+        },
+        {
+          "annotation_15": {
+            "category": "qr",
+            "bbox": {
+              "x": 509.72,
+              "y": 156.03,
+              "width": 166.02,
+              "height": 166.33
+            },
+            "area": 27614.11
+          }
+        },
+        {
+          "annotation_16": {
+            "category": "qr",
+            "bbox": {
+              "x": 1092.92,
+              "y": 1577.78,
+              "width": 57.94,
+              "height": 58.73
+            },
+            "area": 3402.82
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 617.53,
+              "y": 1126.71,
+              "width": 107.6,
+              "height": 39.76
+            },
+            "area": 4278.18
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 558.76,
+              "y": 988.73,
+              "width": 223.2,
+              "height": 224.76
+            },
+            "area": 50166.43
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_5": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 421.79,
+              "y": 1466.01,
+              "width": 103.1,
+              "height": 48.52
+            },
+            "area": 5002.41
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 639.06,
+              "y": 1399.31,
+              "width": 222.93,
+              "height": 225.01
+            },
+            "area": 50161.48
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_6": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1095.47,
+              "y": 1585.62,
+              "width": 49.23,
+              "height": 51.05
+            },
+            "area": 2513.19
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_7": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1098.64,
+              "y": 1591.12,
+              "width": 52.13,
+              "height": 52.58
+            },
+            "area": 2741.0
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_8": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1088.2,
+              "y": 1584.91,
+              "width": 59.32,
+              "height": 60.4
+            },
+            "area": 3582.93
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_9": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1083.08,
+              "y": 1585.0,
+              "width": 55.6,
+              "height": 59.42
+            },
+            "area": 3303.75
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_10": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1090.8,
+              "y": 1581.5,
+              "width": 56.05,
+              "height": 56.05
+            },
+            "area": 3141.6
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_11": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 1084.33,
+              "y": 1578.77,
+              "width": 56.41,
+              "height": 56.93
+            },
+            "area": 3211.42
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Археология-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 214.9,
+              "y": 757.31,
+              "width": 237.92,
+              "height": 103.2
+            },
+            "area": 24553.34
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 674.64,
+              "y": 805.45,
+              "width": 231.4,
+              "height": 87.9
+            },
+            "area": 20340.06
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 354.5,
+              "y": 705.77,
+              "width": 218.19,
+              "height": 227.19
+            },
+            "area": 49570.59
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "stamp",
+            "bbox": {
+              "x": 795.92,
+              "y": 696.08,
+              "width": 213.36,
+              "height": 227.08
+            },
+            "area": 48449.79
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Археология-2.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 406.04,
+              "y": 744.02,
+              "width": 75.61,
+              "height": 39.28
+            },
+            "area": 2969.96
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 859.38,
+              "y": 747.91,
+              "width": 110.17,
+              "height": 36.81
+            },
+            "area": 4055.36
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 793.46,
+              "y": 719.7,
+              "width": 217.8,
+              "height": 225.76
+            },
+            "area": 49170.53
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "stamp",
+            "bbox": {
+              "x": 354.0,
+              "y": 702.96,
+              "width": 210.86,
+              "height": 230.56
+            },
+            "area": 48615.88
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Археология-31-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 217.59,
+              "y": 758.03,
+              "width": 229.54,
+              "height": 101.81
+            },
+            "area": 23369.47
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 675.86,
+              "y": 806.03,
+              "width": 218.94,
+              "height": 85.32
+            },
+            "area": 18679.96
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 355.46,
+              "y": 708.04,
+              "width": 215.56,
+              "height": 224.96
+            },
+            "area": 48492.38
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "stamp",
+            "bbox": {
+              "x": 796.19,
+              "y": 696.91,
+              "width": 212.66,
+              "height": 225.55
+            },
+            "area": 47965.46
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "археология-41-чб.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 407.24,
+              "y": 743.14,
+              "width": 71.4,
+              "height": 40.75
+            },
+            "area": 2909.55
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 855.87,
+              "y": 748.07,
+              "width": 118.77,
+              "height": 36.49
+            },
+            "area": 4333.92
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 794.32,
+              "y": 722.74,
+              "width": 216.65,
+              "height": 224.68
+            },
+            "area": 48676.92
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "stamp",
+            "bbox": {
+              "x": 355.3,
+              "y": 704.44,
+              "width": 209.52,
+              "height": 229.42
+            },
+            "area": 48068.08
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "дефект-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 471.78,
+              "y": 401.81,
+              "width": 235.48,
+              "height": 89.06
+            },
+            "area": 20971.85
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 694.1,
+              "y": 725.37,
+              "width": 240.17,
+              "height": 109.27
+            },
+            "area": 26243.38
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "signature",
+            "bbox": {
+              "x": 490.93,
+              "y": 498.65,
+              "width": 191.94,
+              "height": 88.28
+            },
+            "area": 16944.46
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "signature",
+            "bbox": {
+              "x": 440.25,
+              "y": 680.35,
+              "width": 191.11,
+              "height": 89.72
+            },
+            "area": 17146.39
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "signature",
+            "bbox": {
+              "x": 470.28,
+              "y": 592.26,
+              "width": 166.33,
+              "height": 90.58
+            },
+            "area": 15066.17
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "stamp",
+            "bbox": {
+              "x": 524.1,
+              "y": 538.71,
+              "width": 216.92,
+              "height": 231.69
+            },
+            "area": 50258.19
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "дефект-2.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 519.75,
+              "y": 429.78,
+              "width": 64.75,
+              "height": 43.65
+            },
+            "area": 2826.34
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 713.66,
+              "y": 748.1,
+              "width": 88.05,
+              "height": 51.29
+            },
+            "area": 4516.08
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "signature",
+            "bbox": {
+              "x": 535.35,
+              "y": 660.23,
+              "width": 92.33,
+              "height": 44.1
+            },
+            "area": 4071.75
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "signature",
+            "bbox": {
+              "x": 516.01,
+              "y": 513.57,
+              "width": 86.2,
+              "height": 42.85
+            },
+            "area": 3693.67
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "signature",
+            "bbox": {
+              "x": 525.87,
+              "y": 579.86,
+              "width": 82.18,
+              "height": 41.26
+            },
+            "area": 3390.75
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "stamp",
+            "bbox": {
+              "x": 504.45,
+              "y": 527.2,
+              "width": 225.73,
+              "height": 229.69
+            },
+            "area": 51847.92
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "дефект-31-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 471.81,
+              "y": 401.06,
+              "width": 235.79,
+              "height": 88.95
+            },
+            "area": 20973.52
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 695.36,
+              "y": 726.24,
+              "width": 238.62,
+              "height": 107.94
+            },
+            "area": 25756.64
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "signature",
+            "bbox": {
+              "x": 443.42,
+              "y": 677.18,
+              "width": 179.61,
+              "height": 93.67
+            },
+            "area": 16824.07
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "signature",
+            "bbox": {
+              "x": 494.1,
+              "y": 498.43,
+              "width": 188.49,
+              "height": 87.41
+            },
+            "area": 16475.91
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "signature",
+            "bbox": {
+              "x": 470.45,
+              "y": 589.19,
+              "width": 166.93,
+              "height": 92.51
+            },
+            "area": 15442.69
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "stamp",
+            "bbox": {
+              "x": 518.69,
+              "y": 541.72,
+              "width": 221.79,
+              "height": 227.04
+            },
+            "area": 50355.2
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "дефект-41-чб.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 518.0,
+              "y": 428.88,
+              "width": 69.01,
+              "height": 45.15
+            },
+            "area": 3115.8
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 712.96,
+              "y": 746.99,
+              "width": 87.14,
+              "height": 53.05
+            },
+            "area": 4622.78
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "signature",
+            "bbox": {
+              "x": 517.16,
+              "y": 514.27,
+              "width": 82.99,
+              "height": 42.01
+            },
+            "area": 3486.41
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "signature",
+            "bbox": {
+              "x": 531.19,
+              "y": 657.12,
+              "width": 101.43,
+              "height": 54.19
+            },
+            "area": 5496.49
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "signature",
+            "bbox": {
+              "x": 521.84,
+              "y": 575.8,
+              "width": 84.42,
+              "height": 46.53
+            },
+            "area": 3928.06
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "stamp",
+            "bbox": {
+              "x": 504.99,
+              "y": 528.87,
+              "width": 224.4,
+              "height": 226.49
+            },
+            "area": 50824.36
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Дозиметр-41-чб.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "stamp",
+            "bbox": {
+              "x": 281.75,
+              "y": 576.14,
+              "width": 226.78,
+              "height": 222.82
+            },
+            "area": 50531.12
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 478.88,
+              "y": 851.35,
+              "width": 127.35,
+              "height": 44.16
+            },
+            "area": 5623.78
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 395.01,
+              "y": 794.12,
+              "width": 228.81,
+              "height": 221.52
+            },
+            "area": 50685.99
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_4": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 494.7,
+              "y": 992.2,
+              "width": 105.63,
+              "height": 41.88
+            },
+            "area": 4423.78
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 271.98,
+              "y": 980.25,
+              "width": 221.17,
+              "height": 225.67
+            },
+            "area": 49911.43
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "дозиметрия-2.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "stamp",
+            "bbox": {
+              "x": 279.12,
+              "y": 574.13,
+              "width": 229.96,
+              "height": 225.6
+            },
+            "area": 51878.98
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 476.06,
+              "y": 846.23,
+              "width": 129.63,
+              "height": 49.95
+            },
+            "area": 6475.02
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 396.31,
+              "y": 790.75,
+              "width": 228.48,
+              "height": 227.4
+            },
+            "area": 51956.35
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_4": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 495.32,
+              "y": 991.79,
+              "width": 103.09,
+              "height": 39.99
+            },
+            "area": 4122.57
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 272.22,
+              "y": 977.42,
+              "width": 221.12,
+              "height": 228.34
+            },
+            "area": 50490.54
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "дозиметрия-31-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "stamp",
+            "bbox": {
+              "x": 285.81,
+              "y": 604.49,
+              "width": 221.85,
+              "height": 225.26
+            },
+            "area": 49973.93
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 493.74,
+              "y": 855.56,
+              "width": 203.34,
+              "height": 122.63
+            },
+            "area": 24935.58
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 398.41,
+              "y": 800.63,
+              "width": 222.02,
+              "height": 228.78
+            },
+            "area": 50793.74
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_4": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 517.88,
+              "y": 945.4,
+              "width": 307.85,
+              "height": 121.93
+            },
+            "area": 37536.15
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 303.3,
+              "y": 1002.5,
+              "width": 219.86,
+              "height": 224.62
+            },
+            "area": 49384.95
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "лицензия-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 842.31,
+              "y": 1380.64,
+              "width": 196.53,
+              "height": 197.08
+            },
+            "area": 38732.13
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 73.53,
+              "y": 1382.48,
+              "width": 198.51,
+              "height": 196.34
+            },
+            "area": 38975.45
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "qr",
+            "bbox": {
+              "x": 332.84,
+              "y": 1379.9,
+              "width": 197.16,
+              "height": 198.59
+            },
+            "area": 39154.0
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "qr",
+            "bbox": {
+              "x": 587.42,
+              "y": 1380.29,
+              "width": 197.85,
+              "height": 197.4
+            },
+            "area": 39055.59
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "qr",
+            "bbox": {
+              "x": 377.07,
+              "y": 89.1,
+              "width": 98.32,
+              "height": 115.09
+            },
+            "area": 11315.65
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "qr",
+            "bbox": {
+              "x": 493.0,
+              "y": 89.16,
+              "width": 134.64,
+              "height": 114.14
+            },
+            "area": 15367.81
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 305.84,
+              "y": 1398.43,
+              "width": 198.15,
+              "height": 197.49
+            },
+            "area": 39132.64
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 815.42,
+              "y": 1398.45,
+              "width": 196.31,
+              "height": 198.93
+            },
+            "area": 39051.95
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "qr",
+            "bbox": {
+              "x": 560.76,
+              "y": 1399.53,
+              "width": 197.5,
+              "height": 196.55
+            },
+            "area": 38818.62
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "qr",
+            "bbox": {
+              "x": 58.73,
+              "y": 1399.42,
+              "width": 199.03,
+              "height": 197.23
+            },
+            "area": 39254.69
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "qr",
+            "bbox": {
+              "x": 483.33,
+              "y": 81.43,
+              "width": 125.01,
+              "height": 109.96
+            },
+            "area": 13746.1
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "локалсмета-.pdf": {
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 509.11,
+              "y": 144.33,
+              "width": 251.56,
+              "height": 100.91
+            },
+            "area": 25384.92
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 597.76,
+              "y": 230.88,
+              "width": 325.6,
+              "height": 87.64
+            },
+            "area": 28535.58
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1684,
+        "height": 1190
+      }
+    }
+  },
+  "Локалсмета-2.pdf": {
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 702.74,
+              "y": 242.33,
+              "width": 144.55,
+              "height": 47.87
+            },
+            "area": 6919.61
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 700.84,
+              "y": 184.67,
+              "width": 103.61,
+              "height": 37.93
+            },
+            "area": 3929.93
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1684,
+        "height": 1190
+      }
+    }
+  },
+  "локалсмета-32-.pdf": {
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 701.17,
+              "y": 185.95,
+              "width": 106.63,
+              "height": 38.59
+            },
+            "area": 4114.85
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 701.83,
+              "y": 241.75,
+              "width": 145.48,
+              "height": 50.45
+            },
+            "area": 7339.47
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1684,
+        "height": 1190
+      }
+    }
+  },
+  "локалсметчб-.pdf": {
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 509.41,
+              "y": 147.71,
+              "width": 250.19,
+              "height": 97.86
+            },
+            "area": 24483.59
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 596.26,
+              "y": 230.26,
+              "width": 315.84,
+              "height": 88.41
+            },
+            "area": 27923.41
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1684,
+        "height": 1190
+      }
+    }
+  },
+  "отр-1.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 435.77,
+              "y": 846.17,
+              "width": 287.17,
+              "height": 123.76
+            },
+            "area": 35540.16
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 495.35,
+              "y": 947.36,
+              "width": 357.36,
+              "height": 136.97
+            },
+            "area": 48947.6
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 520.37,
+              "y": 850.57,
+              "width": 229.25,
+              "height": 237.77
+            },
+            "area": 54508.77
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "отр-11.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 594.18,
+              "y": 907.84,
+              "width": 77.82,
+              "height": 33.4
+            },
+            "area": 2599.19
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 608.71,
+              "y": 1004.41,
+              "width": 87.33,
+              "height": 20.33
+            },
+            "area": 1775.42
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 519.96,
+              "y": 840.11,
+              "width": 226.09,
+              "height": 228.5
+            },
+            "area": 51661.57
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "отр-2.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 444.71,
+              "y": 1014.02,
+              "width": 209.44,
+              "height": 93.24
+            },
+            "area": 19528.19
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 551.14,
+              "y": 975.66,
+              "width": 216.82,
+              "height": 230.2
+            },
+            "area": 49911.96
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 734.84,
+              "y": 1451.04,
+              "width": 371.59,
+              "height": 121.01
+            },
+            "area": 44966.11
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 683.27,
+              "y": 1406.45,
+              "width": 226.08,
+              "height": 227.71
+            },
+            "area": 51480.68
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "отр-22.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 619.0,
+              "y": 1122.25,
+              "width": 102.67,
+              "height": 41.04
+            },
+            "area": 4213.58
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 557.81,
+              "y": 985.81,
+              "width": 227.56,
+              "height": 227.69
+            },
+            "area": 51813.14
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 422.04,
+              "y": 1466.74,
+              "width": 101.57,
+              "height": 47.73
+            },
+            "area": 4847.94
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 638.84,
+              "y": 1393.64,
+              "width": 225.0,
+              "height": 230.98
+            },
+            "area": 51970.5
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "отр-31-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 437.75,
+              "y": 850.48,
+              "width": 274.28,
+              "height": 116.83
+            },
+            "area": 32044.13
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 514.93,
+              "y": 945.49,
+              "width": 327.18,
+              "height": 137.91
+            },
+            "area": 45121.39
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 524.44,
+              "y": 853.93,
+              "width": 224.74,
+              "height": 232.32
+            },
+            "area": 52211.6
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "отр-32-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 444.91,
+              "y": 1014.72,
+              "width": 195.44,
+              "height": 91.93
+            },
+            "area": 17966.8
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 546.4,
+              "y": 1100.4,
+              "width": 227.04,
+              "height": 101.68
+            },
+            "area": 23085.43
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 553.21,
+              "y": 978.85,
+              "width": 214.24,
+              "height": 224.88
+            },
+            "area": 48178.29
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 742.16,
+              "y": 1449.67,
+              "width": 366.7,
+              "height": 120.03
+            },
+            "area": 44015.0
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 684.64,
+              "y": 1408.7,
+              "width": 221.4,
+              "height": 224.88
+            },
+            "area": 49788.43
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "отр-41-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 591.85,
+              "y": 906.59,
+              "width": 85.94,
+              "height": 37.65
+            },
+            "area": 3235.64
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 609.92,
+              "y": 1005.65,
+              "width": 82.35,
+              "height": 19.96
+            },
+            "area": 1643.71
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 520.8,
+              "y": 842.67,
+              "width": 224.29,
+              "height": 226.51
+            },
+            "area": 50803.93
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "паспортпроекта-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 594.17,
+              "y": 1213.87,
+              "width": 228.91,
+              "height": 100.38
+            },
+            "area": 22977.99
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 590.99,
+              "y": 1308.31,
+              "width": 267.21,
+              "height": 106.16
+            },
+            "area": 28367.01
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 721.4,
+              "y": 1167.63,
+              "width": 225.19,
+              "height": 233.74
+            },
+            "area": 52635.91
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_5": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 572.56,
+              "y": 310.14,
+              "width": 403.57,
+              "height": 120.65
+            },
+            "area": 48690.72
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 516.68,
+              "y": 122.97,
+              "width": 488.92,
+              "height": 154.55
+            },
+            "area": 75562.59
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 543.66,
+              "y": 134.87,
+              "width": 227.73,
+              "height": 235.82
+            },
+            "area": 53703.29
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Паспортпроекта-2.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "stamp",
+            "bbox": {
+              "x": 658.64,
+              "y": 1167.57,
+              "width": 225.8,
+              "height": 235.99
+            },
+            "area": 53286.54
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_5": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 643.23,
+              "y": 375.52,
+              "width": 122.7,
+              "height": 45.64
+            },
+            "area": 5600.03
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 614.24,
+              "y": 211.94,
+              "width": 68.44,
+              "height": 33.86
+            },
+            "area": 2317.38
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 545.56,
+              "y": 131.21,
+              "width": 223.6,
+              "height": 231.74
+            },
+            "area": 51817.06
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Паспортпроекта-31-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 588.44,
+              "y": 1215.64,
+              "width": 235.41,
+              "height": 97.88
+            },
+            "area": 23041.93
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 592.31,
+              "y": 1308.28,
+              "width": 258.8,
+              "height": 105.29
+            },
+            "area": 27249.05
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 720.5,
+              "y": 1170.86,
+              "width": 222.87,
+              "height": 228.34
+            },
+            "area": 50890.14
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_5": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 570.88,
+              "y": 311.85,
+              "width": 405.95,
+              "height": 118.7
+            },
+            "area": 48186.26
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 506.4,
+              "y": 127.38,
+              "width": 506.74,
+              "height": 153.34
+            },
+            "area": 77703.51
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 544.78,
+              "y": 141.17,
+              "width": 227.08,
+              "height": 226.38
+            },
+            "area": 51406.37
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Паспортпроекта-41-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "stamp",
+            "bbox": {
+              "x": 660.74,
+              "y": 1170.9,
+              "width": 221.32,
+              "height": 224.61
+            },
+            "area": 49710.69
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_5": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 643.83,
+              "y": 374.49,
+              "width": 123.71,
+              "height": 49.07
+            },
+            "area": 6070.45
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 615.27,
+              "y": 206.62,
+              "width": 93.07,
+              "height": 34.73
+            },
+            "area": 3232.32
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 544.58,
+              "y": 134.25,
+              "width": 221.75,
+              "height": 229.21
+            },
+            "area": 50827.32
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "перечень-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 138.59,
+              "y": 142.84,
+              "width": 207.1,
+              "height": 57.93
+            },
+            "area": 11997.3
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 235.82,
+              "y": 42.73,
+              "width": 219.32,
+              "height": 219.64
+            },
+            "area": 48171.44
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 848.0,
+              "y": 173.33,
+              "width": 242.08,
+              "height": 113.59
+            },
+            "area": 27497.87
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 716.16,
+              "y": 178.09,
+              "width": 222.4,
+              "height": 229.58
+            },
+            "area": 51058.59
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Перечень-2.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 207.75,
+              "y": 142.66,
+              "width": 129.03,
+              "height": 64.81
+            },
+            "area": 8362.43
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 237.91,
+              "y": 24.35,
+              "width": 218.85,
+              "height": 222.86
+            },
+            "area": 48772.91
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 574.06,
+              "y": 130.88,
+              "width": 107.05,
+              "height": 46.35
+            },
+            "area": 4961.77
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 707.24,
+              "y": 156.44,
+              "width": 227.76,
+              "height": 228.75
+            },
+            "area": 52100.1
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "перечень-31-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 139.49,
+              "y": 142.9,
+              "width": 194.06,
+              "height": 57.88
+            },
+            "area": 11232.19
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 237.11,
+              "y": 43.31,
+              "width": 214.71,
+              "height": 216.67
+            },
+            "area": 46521.22
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 847.92,
+              "y": 171.34,
+              "width": 248.67,
+              "height": 115.12
+            },
+            "area": 28626.89
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 716.2,
+              "y": 179.53,
+              "width": 220.64,
+              "height": 227.12
+            },
+            "area": 50111.76
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "перечень-32-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 209.43,
+              "y": 144.02,
+              "width": 121.1,
+              "height": 60.68
+            },
+            "area": 7348.35
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 237.0,
+              "y": 25.42,
+              "width": 220.16,
+              "height": 221.69
+            },
+            "area": 48807.27
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 572.62,
+              "y": 131.77,
+              "width": 108.88,
+              "height": 45.73
+            },
+            "area": 4979.08
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 707.89,
+              "y": 158.22,
+              "width": 226.28,
+              "height": 225.12
+            },
+            "area": 50940.15
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "письмо-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 499.67,
+              "y": 263.36,
+              "width": 295.84,
+              "height": 130.96
+            },
+            "area": 38743.21
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 586.65,
+              "y": 275.79,
+              "width": 223.29,
+              "height": 234.8
+            },
+            "area": 52428.49
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "письмо-11.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 582.24,
+              "y": 319.51,
+              "width": 101.52,
+              "height": 55.19
+            },
+            "area": 5602.89
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 615.04,
+              "y": 323.3,
+              "width": 227.46,
+              "height": 236.48
+            },
+            "area": 53789.74
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Письмо-2.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 512.95,
+              "y": 1032.61,
+              "width": 254.91,
+              "height": 111.57
+            },
+            "area": 28440.31
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 699.12,
+              "y": 986.09,
+              "width": 214.55,
+              "height": 221.15
+            },
+            "area": 47447.73
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "письмо-22.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 601.67,
+              "y": 1051.43,
+              "width": 142.52,
+              "height": 49.12
+            },
+            "area": 7000.58
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 694.0,
+              "y": 975.44,
+              "width": 205.33,
+              "height": 219.07
+            },
+            "area": 44981.64
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "письмо-31-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 500.29,
+              "y": 262.45,
+              "width": 291.82,
+              "height": 131.96
+            },
+            "area": 38508.57
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 588.67,
+              "y": 277.78,
+              "width": 220.44,
+              "height": 229.75
+            },
+            "area": 50646.09
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "письмо-32-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 512.84,
+              "y": 1034.19,
+              "width": 256.99,
+              "height": 109.39
+            },
+            "area": 28112.14
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 702.25,
+              "y": 987.1,
+              "width": 211.24,
+              "height": 218.9
+            },
+            "area": 46240.44
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Письмо-41-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 582.65,
+              "y": 318.87,
+              "width": 97.57,
+              "height": 55.49
+            },
+            "area": 5414.16
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 616.11,
+              "y": 327.29,
+              "width": 222.79,
+              "height": 230.18
+            },
+            "area": 51281.8
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Письмо-42.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 602.72,
+              "y": 1051.23,
+              "width": 140.8,
+              "height": 50.64
+            },
+            "area": 7130.11
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 694.47,
+              "y": 976.03,
+              "width": 204.75,
+              "height": 219.21
+            },
+            "area": 44883.25
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "протоколдоз-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "stamp",
+            "bbox": {
+              "x": 285.79,
+              "y": 603.37,
+              "width": 223.17,
+              "height": 226.86
+            },
+            "area": 50628.35
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 490.04,
+              "y": 854.51,
+              "width": 205.13,
+              "height": 133.2
+            },
+            "area": 27323.32
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 398.51,
+              "y": 798.64,
+              "width": 227.24,
+              "height": 232.0
+            },
+            "area": 52719.68
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_4": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 514.08,
+              "y": 945.53,
+              "width": 318.62,
+              "height": 121.98
+            },
+            "area": 38865.27
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 303.07,
+              "y": 1000.34,
+              "width": 221.11,
+              "height": 227.48
+            },
+            "area": 50298.1
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "разрешназемл-2.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 699.82,
+              "y": 1224.15,
+              "width": 213.53,
+              "height": 160.73
+            },
+            "area": 34320.68
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 706.83,
+              "y": 1184.03,
+              "width": 207.09,
+              "height": 219.64
+            },
+            "area": 45485.25
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "разрешназемлю-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 766.29,
+              "y": 1232.75,
+              "width": 269.98,
+              "height": 163.97
+            },
+            "area": 44268.62
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 714.88,
+              "y": 1184.23,
+              "width": 210.89,
+              "height": 219.95
+            },
+            "area": 46385.26
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Разрешназемлю-31-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 783.3,
+              "y": 1235.24,
+              "width": 259.07,
+              "height": 157.63
+            },
+            "area": 40837.2
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 714.3,
+              "y": 1184.36,
+              "width": 210.01,
+              "height": 219.34
+            },
+            "area": 46063.59
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "Разрешназемлю-41-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 703.01,
+              "y": 1224.57,
+              "width": 210.22,
+              "height": 144.12
+            },
+            "area": 30296.91
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 709.79,
+              "y": 1184.39,
+              "width": 205.04,
+              "height": 217.85
+            },
+            "area": 44667.96
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "разрешнатех-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "qr",
+            "bbox": {
+              "x": 74.54,
+              "y": 1133.18,
+              "width": 170.93,
+              "height": 174.12
+            },
+            "area": 29762.33
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "qr",
+            "bbox": {
+              "x": 295.44,
+              "y": 1133.43,
+              "width": 173.38,
+              "height": 174.25
+            },
+            "area": 30211.47
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "qr",
+            "bbox": {
+              "x": 518.88,
+              "y": 1134.04,
+              "width": 172.75,
+              "height": 175.64
+            },
+            "area": 30341.81
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "qr",
+            "bbox": {
+              "x": 740.39,
+              "y": 1134.7,
+              "width": 171.5,
+              "height": 175.49
+            },
+            "area": 30096.53
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "qr",
+            "bbox": {
+              "x": 957.7,
+              "y": 1136.83,
+              "width": 175.01,
+              "height": 175.85
+            },
+            "area": 30775.51
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "qr",
+            "bbox": {
+              "x": 293.18,
+              "y": 1357.64,
+              "width": 172.58,
+              "height": 172.19
+            },
+            "area": 29716.55
+          }
+        },
+        {
+          "annotation_7": {
+            "category": "qr",
+            "bbox": {
+              "x": 69.86,
+              "y": 1356.56,
+              "width": 173.3,
+              "height": 171.87
+            },
+            "area": 29785.07
+          }
+        },
+        {
+          "annotation_8": {
+            "category": "qr",
+            "bbox": {
+              "x": 1083.48,
+              "y": 1568.39,
+              "width": 60.89,
+              "height": 61.04
+            },
+            "area": 3716.73
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "ТЗ-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 715.55,
+              "y": 207.21,
+              "width": 388.35,
+              "height": 119.68
+            },
+            "area": 46477.73
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 684.19,
+              "y": 160.13,
+              "width": 225.83,
+              "height": 230.02
+            },
+            "area": 51945.42
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 712.95,
+              "y": 1212.96,
+              "width": 265.43,
+              "height": 94.4
+            },
+            "area": 25056.59
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 744.49,
+              "y": 1293.72,
+              "width": 420.97,
+              "height": 149.25
+            },
+            "area": 62829.77
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 750.64,
+              "y": 1215.32,
+              "width": 225.3,
+              "height": 231.25
+            },
+            "area": 52100.62
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "ТЗ-2.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 793.22,
+              "y": 180.51,
+              "width": 114.4,
+              "height": 49.36
+            },
+            "area": 5646.78
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 692.96,
+              "y": 155.72,
+              "width": 223.58,
+              "height": 229.96
+            },
+            "area": 51414.46
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 797.87,
+              "y": 1352.92,
+              "width": 80.03,
+              "height": 37.79
+            },
+            "area": 3024.33
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 794.29,
+              "y": 1247.81,
+              "width": 94.76,
+              "height": 42.55
+            },
+            "area": 4032.04
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 746.59,
+              "y": 1204.25,
+              "width": 227.44,
+              "height": 225.8
+            },
+            "area": 51355.95
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "ТЗ-31-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 740.04,
+              "y": 208.07,
+              "width": 323.16,
+              "height": 107.23
+            },
+            "area": 34652.45
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 685.4,
+              "y": 162.15,
+              "width": 222.21,
+              "height": 227.31
+            },
+            "area": 50510.56
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 712.09,
+              "y": 1215.72,
+              "width": 261.8,
+              "height": 90.61
+            },
+            "area": 23721.7
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 743.93,
+              "y": 1311.3,
+              "width": 341.36,
+              "height": 131.78
+            },
+            "area": 44984.42
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 751.69,
+              "y": 1220.33,
+              "width": 221.56,
+              "height": 221.74
+            },
+            "area": 49128.71
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "ТЗ-41-чб.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 792.82,
+              "y": 179.27,
+              "width": 109.46,
+              "height": 51.09
+            },
+            "area": 5592.31
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "stamp",
+            "bbox": {
+              "x": 692.6,
+              "y": 157.71,
+              "width": 222.34,
+              "height": 226.35
+            },
+            "area": 50326.66
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    },
+    "page_3": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 793.56,
+              "y": 1351.86,
+              "width": 86.24,
+              "height": 39.87
+            },
+            "area": 3438.39
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 790.27,
+              "y": 1243.93,
+              "width": 101.72,
+              "height": 46.75
+            },
+            "area": 4755.41
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 747.86,
+              "y": 1207.95,
+              "width": 226.77,
+              "height": 221.5
+            },
+            "area": 50229.56
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "ТУ-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 575.95,
+              "y": 966.66,
+              "width": 251.02,
+              "height": 75.86
+            },
+            "area": 19042.38
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 704.49,
+              "y": 806.04,
+              "width": 148.39,
+              "height": 75.07
+            },
+            "area": 11139.64
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 590.58,
+              "y": 745.9,
+              "width": 221.49,
+              "height": 230.31
+            },
+            "area": 51011.36
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "stamp",
+            "bbox": {
+              "x": 452.8,
+              "y": 868.55,
+              "width": 225.29,
+              "height": 232.66
+            },
+            "area": 52415.97
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "ТУ-2.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 639.6,
+              "y": 822.37,
+              "width": 86.13,
+              "height": 39.86
+            },
+            "area": 3433.14
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 521.38,
+              "y": 918.48,
+              "width": 117.65,
+              "height": 53.37
+            },
+            "area": 6278.98
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 539.4,
+              "y": 750.77,
+              "width": 225.49,
+              "height": 233.49
+            },
+            "area": 52649.66
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "stamp",
+            "bbox": {
+              "x": 437.43,
+              "y": 912.87,
+              "width": 215.53,
+              "height": 230.38
+            },
+            "area": 49653.8
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "ТУ-31-.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 709.14,
+              "y": 806.91,
+              "width": 142.69,
+              "height": 77.59
+            },
+            "area": 11071.32
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 588.27,
+              "y": 964.59,
+              "width": 246.97,
+              "height": 74.37
+            },
+            "area": 18367.16
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 589.93,
+              "y": 748.86,
+              "width": 220.17,
+              "height": 227.82
+            },
+            "area": 50159.13
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "stamp",
+            "bbox": {
+              "x": 453.76,
+              "y": 871.5,
+              "width": 222.86,
+              "height": 228.84
+            },
+            "area": 50999.28
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "ТУ-41-чб.pdf": {
+    "page_2": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 542.19,
+              "y": 925.71,
+              "width": 86.51,
+              "height": 44.17
+            },
+            "area": 3821.15
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 639.92,
+              "y": 822.14,
+              "width": 87.66,
+              "height": 40.52
+            },
+            "area": 3551.98
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "stamp",
+            "bbox": {
+              "x": 539.98,
+              "y": 751.11,
+              "width": 222.75,
+              "height": 232.89
+            },
+            "area": 51876.25
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "stamp",
+            "bbox": {
+              "x": 438.58,
+              "y": 916.53,
+              "width": 214.29,
+              "height": 226.41
+            },
+            "area": 48517.4
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1190,
+        "height": 1684
+      }
+    }
+  },
+  "чертеж-.pdf": {
+    "page_1": {
+      "annotations": [
+        {
+          "annotation_1": {
+            "category": "signature",
+            "bbox": {
+              "x": 1095.54,
+              "y": 1129.84,
+              "width": 47.01,
+              "height": 19.39
+            },
+            "area": 911.52
+          }
+        },
+        {
+          "annotation_2": {
+            "category": "signature",
+            "bbox": {
+              "x": 1095.54,
+              "y": 1076.93,
+              "width": 49.42,
+              "height": 17.03
+            },
+            "area": 841.62
+          }
+        },
+        {
+          "annotation_3": {
+            "category": "signature",
+            "bbox": {
+              "x": 1095.24,
+              "y": 1122.11,
+              "width": 48.05,
+              "height": 18.27
+            },
+            "area": 877.87
+          }
+        },
+        {
+          "annotation_4": {
+            "category": "signature",
+            "bbox": {
+              "x": 1085.94,
+              "y": 1035.04,
+              "width": 57.21,
+              "height": 18.64
+            },
+            "area": 1066.39
+          }
+        },
+        {
+          "annotation_5": {
+            "category": "signature",
+            "bbox": {
+              "x": 1095.21,
+              "y": 1092.02,
+              "width": 48.04,
+              "height": 18.84
+            },
+            "area": 905.07
+          }
+        },
+        {
+          "annotation_6": {
+            "category": "signature",
+            "bbox": {
+              "x": 511.89,
+              "y": 1108.01,
+              "width": 46.11,
+              "height": 17.97
+            },
+            "area": 828.6
+          }
+        },
+        {
+          "annotation_7": {
+            "category": "signature",
+            "bbox": {
+              "x": 1095.71,
+              "y": 1110.82,
+              "width": 48.38,
+              "height": 11.96
+            },
+            "area": 578.62
+          }
+        },
+        {
+          "annotation_8": {
+            "category": "signature",
+            "bbox": {
+              "x": 1091.39,
+              "y": 1053.15,
+              "width": 52.86,
+              "height": 19.57
+            },
+            "area": 1034.47
+          }
+        },
+        {
+          "annotation_9": {
+            "category": "stamp",
+            "bbox": {
+              "x": 433.18,
+              "y": 904.41,
+              "width": 217.86,
+              "height": 229.27
+            },
+            "area": 49948.76
+          }
+        },
+        {
+          "annotation_10": {
+            "category": "stamp",
+            "bbox": {
+              "x": 1005.17,
+              "y": 937.12,
+              "width": 211.62,
+              "height": 219.9
+            },
+            "area": 46535.24
+          }
+        }
+      ],
+      "page_size": {
+        "width": 1684,
+        "height": 1190
+      }
+    }
+  }
+}
