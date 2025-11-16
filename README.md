@@ -38,5 +38,5 @@ pip install numpy
 1. Open file GradioSetup.py from folder and run
 2. It give output with  "Running on local URL:  http://127.0.0.1:XXXX"
 3. Copy that http and paste it to browser
-4. Choose or drop file into the site and press run
-5. Donwload the file or json
+4. Choose or drop file into the site and press Run
+5. Download the file or json
